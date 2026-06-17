@@ -1,0 +1,74 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "Dy5J716WKQeyWr9vZlHHY"
+uri = "file://artifacts/wedding-booking/src/assets/hero.png"
+type = "image"
+title = "Luxury Arabic wedding hall"
+
+[[generated]]
+id = "_2IpxI8VTy23rBOx-blh_"
+uri = "file://artifacts/wedding-booking/src/assets/service-photography.png"
+type = "image"
+title = "Wedding photography setup"
+
+[[generated]]
+id = "fR2oH7cUUXYjaCv1orw0p"
+uri = "file://artifacts/wedding-booking/src/assets/service-decoration.png"
+type = "image"
+title = "Wedding decoration setup"
+
+[[generated]]
+id = "YXttEV2Aqj_8Oc2tJ4mZX"
+uri = "file://artifacts/wedding-booking/src/assets/service-cake.png"
+type = "image"
+title = "Elegant wedding cake"
+
+[[generated]]
+id = "Dj1-gfiTl4KIMz4X_mt2d"
+uri = "file://artifacts/wedding-booking/src/assets/gallery-1.png"
+type = "image"
+title = "Outdoor wedding setup"
+
+[[generated]]
+id = "TRrHHsNavi98kx9Ekoi5k"
+uri = "file://artifacts/wedding-booking/src/assets/gallery-2.png"
+type = "image"
+title = "Wedding rings close up"
+
+[[generated]]
+id = "i_ZVoxBwrWSiXvNH4hNPR"
+uri = "file://attached_assets/generated_images/professional_dj_performing_at_049b.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "3vrfl6nykMQOM0Ot-6yW2"
+uri = "file://attached_assets/generated_images/professional_large_sound_speakers_96fb.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "2oGyA_qP8A8gY8MnqNrDr"
+uri = "file://attached_assets/generated_images/professional_audio_amplifiers_rack_c5e3.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "Ulz5hQwKc0Rve1Xb__NCU"
+uri = "file://attached_assets/generated_images/musical_instruments_collection_electric_65d6.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "-Ntu-nfVRYnB_E2ako0uZ"
+uri = "file://attached_assets/generated_images/professional_dj_at_luxury_b1d6.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "2xzpIuoVFPLxVNSS_d_Ra"
+uri = "file://attached_assets/generated_images/close_up_dj_mixing_000f.png"
+type = "image"
+title = "generated_image"
